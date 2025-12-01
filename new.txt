@@ -4,3 +4,4 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&s
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#moein271
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#moein279
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#moein280
+vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&sid=0ff58d687a4c6c&spx=%2F&type=tcp&headerType=none#moein26
